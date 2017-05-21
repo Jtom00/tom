@@ -1,7 +1,10 @@
 # tom
 
-apples
-oranges
+castraveti
+muraturi
+rosii 
+ceapa
+
 
 
 
